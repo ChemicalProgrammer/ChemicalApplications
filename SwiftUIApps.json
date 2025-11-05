@@ -1,30 +1,56 @@
 [
   {
-    "name": "Steam Tables by CA",
-    "description": "Calcula propiedades termodinámicas del agua y vapor. Entradas flexibles (P/T, calidad, v, h, s, u) y gran variedad de unidades.",
-    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/03/7c/69037c2d-02b8-d4e6-f6ec-3451fe3c656c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-    "url": "https://apps.apple.com/app/id6504078020",
-    "price": "$3.99"
+    "name": "Pump Go",
+    "description": "Your essential companion for designing and analyzing centrifugal pump systems—quick calculations, dynamic head, pump power and intuitive workflow.",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/95/6c/fe956c28-908b-91d4-d5e0-e853251c00c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "url": "https://apps.apple.com/us/app/pump-go/id6745105179"
   },
   {
-    "name": "Refrigerant Tables",
-    "description": "Propiedades termodinámicas para refrigerantes con control de presión absoluta o manométrica, glosario y referencias técnicas.",
-    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/06/01/6d06011c-728d-7990-1de9-ec71638b0681/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-    "url": "https://apps.apple.com/app/id6526497856",
-    "price": "$2.99"
+    "name": "Pipe Sizing",
+    "description": "Intuitive utility for engineers, technicians and students to calculate optimal pipe dimensions from flow, volume, density, time or rate.",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/95/6c/fe956c28-908b-91d4-d5e0-e853251c00c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "url": "https://apps.apple.com/us/app/pipe-sizing/id6738522817"
+  },
+  {
+    "name": "Vapour Pressures",
+    "description": "Application designed to calculate vapor pressures and boiling points with two large databases and extensive unit support.",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/20/b8/c620b851-e826-5f74-eaf5-5bdeee70b85b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "url": "https://apps.apple.com/us/app/vapour-pressures/id6738324417"
+  },
+  {
+    "name": "Regression Analysis",
+    "description": "Tool for performing simple linear or exponential regression exercises—ideal for students or professionals needing quick insight.",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/fb/49/e1fb4983-272d-7e4f-722d-11d7aa9cb40e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "url": "https://apps.apple.com/us/app/regression-analysis/id6615062209"
   },
   {
     "name": "Gas Laws by CA",
-    "description": "Resuelve leyes de los gases (Boyle, Charles, Gay-Lussac, combinada, ideal y real) con unidades flexibles y referencia de R.",
+    "description": "Intuitive and powerful utility to solve gas law equations (ideal & real), includes glossary and reference table of the universal gas constant R in multiple units.",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/3e/20/673e2074-4340-8043-3e26-41c0e5141db6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-    "url": "https://apps.apple.com/app/id6587549604",
-    "price": "$0.99"
+    "url": "https://apps.apple.com/us/app/gas-laws-by-ca/id6587549604"
+  },
+  {
+    "name": "Interpolation Methods",
+    "description": "Performs linear and bilinear interpolation calculations—versatile for engineering, science and academic use.",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/e9/5f/0ae95f42-97df-4243-3fa9-97fb8a35eb8c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "url": "https://apps.apple.com/app/interpolation-methods/id6557032923"
+  },
+  {
+    "name": "Refrigerant Tables",
+    "description": "Professional app that calculates refrigerants’ thermodynamic properties—inputs include temperature, pressure or volume; results include enthalpy, entropy, density and more.",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/06/01/6d06011c-728d-7990-1de9-ec71638b0681/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "url": "https://apps.apple.com/app/refrigerant-tables/id6526497856"
+  },
+  {
+    "name": "Steam Tables by CA",
+    "description": "Calculate thermodynamic properties of water and steam with flexible inputs, quality control and multiple engineering units.",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/03/7c/69037c2d-02b8-d4e6-f6ec-3451fe3c656c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "url": "https://apps.apple.com/app/steam-tables-by-ca/id6504078020"
   },
   {
     "name": "Soap Making Workshop",
-    "description": "Suite profesional para jabonería artesanal: recetas, lotes, inventario, ventas, Excel, iCloud y más.",
+    "description": "Professional toolkit for handmade soap production and management—including recipes, batches, inventory, sales and iCloud sync.",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/c5/23/b5c523cf-4989-5d8c-dac5-2474ceaa56e1/AppIcon-0-0-85-220-0-0-2-0-2x.png/512x512bb.png",
-    "url": "https://apps.apple.com/app/id6742439211",
-    "price": "Free"
+    "url": "https://apps.apple.com/app/soap-making-workshop/id6742439211"
   }
 ]
