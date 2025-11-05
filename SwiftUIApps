@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Steam Tables by CA",
+    "description": "Calcula propiedades termodinámicas del agua y vapor. Entradas flexibles (P/T, calidad, v, h, s, u) y gran variedad de unidades.",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/03/7c/69037c2d-02b8-d4e6-f6ec-3451fe3c656c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "url": "https://apps.apple.com/app/id6504078020",
+    "price": "$3.99"
+  },
+  {
+    "name": "Refrigerant Tables",
+    "description": "Propiedades termodinámicas para refrigerantes con control de presión absoluta o manométrica, glosario y referencias técnicas.",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/06/01/6d06011c-728d-7990-1de9-ec71638b0681/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "url": "https://apps.apple.com/app/id6526497856",
+    "price": "$2.99"
+  },
+  {
+    "name": "Gas Laws by CA",
+    "description": "Resuelve leyes de los gases (Boyle, Charles, Gay-Lussac, combinada, ideal y real) con unidades flexibles y referencia de R.",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/3e/20/673e2074-4340-8043-3e26-41c0e5141db6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "url": "https://apps.apple.com/app/id6587549604",
+    "price": "$0.99"
+  },
+  {
+    "name": "Soap Making Workshop",
+    "description": "Suite profesional para jabonería artesanal: recetas, lotes, inventario, ventas, Excel, iCloud y más.",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/c5/23/b5c523cf-4989-5d8c-dac5-2474ceaa56e1/AppIcon-0-0-85-220-0-0-2-0-2x.png/512x512bb.png",
+    "url": "https://apps.apple.com/app/id6742439211",
+    "price": "Free"
+  }
+]
