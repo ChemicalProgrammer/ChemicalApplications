@@ -53,5 +53,7 @@
   { "name": "tinted iris", "hex": "#C4B7D7" },
   { "name": "vineyard", "hex": "#819984" },
   { "name": "zima blue", "hex": "#0CB7F2" },
-  { "name": "aegean sea", "hex": "#4D8EA3" }
+  { "name": "aegean sea", "hex": "#4D8EA3" },
+{ "name": "machu picchu gardens", "hex": "#98BC35" }
+  
 ]
