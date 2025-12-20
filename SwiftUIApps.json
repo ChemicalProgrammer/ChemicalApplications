@@ -52,5 +52,11 @@
     "description": "Professional toolkit for handmade soap production and management—including recipes, batches, inventory, sales and iCloud sync.",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/c5/23/b5c523cf-4989-5d8c-dac5-2474ceaa56e1/AppIcon-0-0-85-220-0-0-2-0-2x.png/512x512bb.png",
     "url": "https://apps.apple.com/app/soap-making-workshop/id6742439211"
+  },
+   {
+    "name": "Matrix Operations",
+    "description": "Powerful matrix calculator for linear algebra—build matrices, run advanced operations, and understand every result through clear, step-by-step computation.",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/58/c7/2b58c718-edee-7d6a-184d-8ab49c103d66/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "url": "https://apps.apple.com/app/soap-making-workshop/id6756247504"
   }
 ]
