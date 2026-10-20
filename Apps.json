@@ -24,16 +24,16 @@
     "Color": "#7C5E42",
     "app-store-url": "https://apps.apple.com/us/app/gas-laws-by-ca/id6587549604",
     "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.gas.laws",
-    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/03/7c/69037c2d-02b8-d4e6-f6ec-3451fe3c656c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/5c/ee/185cee7c-bb89-cf7d-9eae-246f9c3802cb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
   },
   {
     "Name": "Interpolation Methods",
     "Description": "Performs linear and bilinear interpolation calculations—versatile for engineering, science and academic use.",
     "Initials": "Im",
     "Color": "#31B9B3",
-    "app-store-url": "https://apps.apple.com/app/interpolation-methods/id6557032923",
+    "app-store-url": "https://apps.apple.com/us/app/interpolation-methods/id6557032923",
     "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.interpolation.methods",
-    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/e9/5f/0ae95f42-97df-4243-3fa9-97fb8a35eb8c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/ee/6a/b9ee6a7c-3b91-2f24-5b2e-67bd1c88fe11/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
   },
   {
     "Name": "Linear Equations",
@@ -60,7 +60,7 @@
     "Color": "#F67B00",
     "app-store-url": "https://apps.apple.com/us/app/pipe-sizing/id6738522817",
     "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.pipe.sizing",
-    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/95/6c/fe956c28-908b-91d4-d5e0-e853251c00c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/fd/b7/9efdb738-c426-e424-8aa6-9691e8c7cb3f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
   },
   {
     "Name": "Pressure Loss",
@@ -72,25 +72,25 @@
     "png-icon": ""
   },
   {
+    "Name": "Pump Go",
+    "Description": "Your essential companion for designing and analyzing centrifugal pump systems—quick calculations, dynamic head, pump power and intuitive workflow.",
+    "Initials": "Pg",
+    "Color": "#4D8AC2",
+    "app-store-url": "https://apps.apple.com/us/app/pump-go/id6745105179",
+    "play-store-url": "",
+    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/a6/40/55a640cc-3d3f-28f6-dfae-e70e821e6e03/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+  },
+  {
     "Name": "Refrigerant Tables",
     "Description": "Professional app that calculates refrigerants’ thermodynamic properties—inputs include temperature, pressure or volume; results include enthalpy, entropy, density and more.",
     "Initials": "Rt",
     "Color": "#884060",
-    "app-store-url": "https://apps.apple.com/app/refrigerant-tables/id6526497856",
+    "app-store-url": "https://apps.apple.com/us/app/refrigerant-tables/id6526497856",
     "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.refrigerant.tables",
-    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/06/01/6d06011c-728d-7990-1de9-ec71638b0681/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/4c/c1/284cc1b3-8a60-1a20-d923-8c715b9d5e6d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
   },
   {
     "Name": "Regression Analysis",
     "Description": "Tool for performing simple linear or exponential regression exercises—ideal for students or professionals needing quick insight.",
     "Initials": "Ra",
     "Color": "#3E5BAF",
-    "app-store-url": "https://apps.apple.com/us/app/regression-analysis/id6615062209",
-    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.regression.analysis",
-    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/83/c8/d283c8ea-8764-1dcd-7513-eb2fd4872d7d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
-  },
-  {
-    "Name": "Shortcut Distillation",
-    "Description": "Size distillation columns using shortcut calculation methods.",
-    "Initials": "Sd",
-    "Color": "#9F9F9F",
