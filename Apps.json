@@ -1,3 +1,35 @@
+[
+  {
+    "Name": "Air Properties",
+    "Description": "Calculate thermodynamic properties of humid air from pressure, temperature and relative humidity.",
+    "Initials": "Ap",
+    "Color": "#89AEC5",
+    "app-store-url": "",
+    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.air.properties",
+    "png-icon": ""
+  },
+  {
+    "Name": "Dimensionless Numbers",
+    "Description": "Calculate dimensionless quantities used in engineering, including Reynolds, Prandtl and Fourier numbers.",
+    "Initials": "Dn",
+    "Color": "#663399",
+    "app-store-url": "",
+    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.dimensionless.numbers",
+    "png-icon": ""
+  },
+  {
+    "Name": "Gas Laws",
+    "Description": "Intuitive and powerful utility to solve gas law equations (ideal & real), includes glossary and reference table of the universal gas constant R in multiple units.",
+    "Initials": "Gl",
+    "Color": "#7C5E42",
+    "app-store-url": "https://apps.apple.com/us/app/gas-laws-by-ca/id6587549604",
+    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.gas.laws",
+    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/03/7c/69037c2d-02b8-d4e6-f6ec-3451fe3c656c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  },
+  {
+    "Name": "Interpolation Methods",
+    "Description": "Performs linear and bilinear interpolation calculations—versatile for engineering, science and academic use.",
+    "Initials": "Im",
     "Color": "#31B9B3",
     "app-store-url": "https://apps.apple.com/app/interpolation-methods/id6557032923",
     "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.interpolation.methods",
@@ -62,62 +94,3 @@
     "Description": "Size distillation columns using shortcut calculation methods.",
     "Initials": "Sd",
     "Color": "#9F9F9F",
-    "app-store-url": "",
-    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.shortcut.distillation",
-    "png-icon": ""
-  },
-  {
-    "Name": "Specific Heat",
-    "Description": "Calculate the specific heat capacity of ideal gases.",
-    "Initials": "Sh",
-    "Color": "#E6BD0C",
-    "app-store-url": "",
-    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.specific.heat",
-    "png-icon": ""
-  },
-  {
-    "Name": "Steam Tables",
-    "Description": "Calculate thermodynamic properties of water and steam with flexible inputs, quality control and multiple engineering units.",
-    "Initials": "St",
-    "Color": "#4D8AC2",
-    "app-store-url": "https://apps.apple.com/app/steam-tables-by-ca/id6504078020",
-    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.steam.tables",
-    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/3e/20/673e2074-4340-8043-3e26-41c0e5141db6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
-  },
-  {
-    "Name": "Units Conversor",
-    "Description": "Convert engineering measurements across 26 categories and more than 500 units, with saved values and conversion tables.",
-    "Initials": "Uc",
-    "Color": "#C53131",
-    "app-store-url": "",
-    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.units.conversor",
-    "png-icon": ""
-  },
-  {
-    "Name": "Vapour Pressures",
-    "Description": "Application designed to calculate vapor pressures and boiling points with two large databases and extensive unit support.",
-    "Initials": "Vp",
-    "Color": "#98BC35",
-    "app-store-url": "https://apps.apple.com/us/app/vapour-pressures/id6738324417",
-    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.pressures.vapour",
-    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/31/7e/d4317e3f-e673-b303-2c58-91a2e561ed5d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
-  },
-  {
-    "Name": "Pump Go",
-    "Description": "Your essential companion for designing and analyzing centrifugal pump systems—quick calculations, dynamic head, pump power and intuitive workflow.",
-    "Initials": "PG",
-    "Color": "#4D8AC2",
-    "app-store-url": "https://apps.apple.com/us/app/pump-go/id6745105179",
-    "play-store-url": "",
-    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/53/63/085363d0-ba5e-66aa-9556-987cd3090d35/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
-  },
-  {
-    "Name": "Soap Making Workshop",
-    "Description": "Professional toolkit for handmade soap production and management—including recipes, batches, inventory, sales and iCloud sync.",
-    "Initials": "SM",
-    "Color": "#4D8AC2",
-    "app-store-url": "https://apps.apple.com/app/soap-making-workshop/id6742439211",
-    "play-store-url": "",
-    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/c5/23/b5c523cf-4989-5d8c-dac5-2474ceaa56e1/AppIcon-0-0-85-220-0-0-2-0-2x.png/512x512bb.png"
-  }
-]
