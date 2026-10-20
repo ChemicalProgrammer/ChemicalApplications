@@ -1,0 +1,123 @@
+    "Color": "#31B9B3",
+    "app-store-url": "https://apps.apple.com/app/interpolation-methods/id6557032923",
+    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.interpolation.methods",
+    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/e9/5f/0ae95f42-97df-4243-3fa9-97fb8a35eb8c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  },
+  {
+    "Name": "Linear Equations",
+    "Description": "Solve linear equation systems with up to seven unknowns, with automatic generation of systems.",
+    "Initials": "Le",
+    "Color": "#0CB7F2",
+    "app-store-url": "",
+    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.linear.equations",
+    "png-icon": ""
+  },
+  {
+    "Name": "Matrix Operations",
+    "Description": "Powerful matrix calculator for linear algebra—build matrices, run advanced operations, and understand every result through clear, step-by-step computation.",
+    "Initials": "Mo",
+    "Color": "#C5317B",
+    "app-store-url": "https://apps.apple.com/us/app/matrix-operations/id6756247504",
+    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.matrix.operations",
+    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/58/c7/2b58c718-edee-7d6a-184d-8ab49c103d66/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  },
+  {
+    "Name": "Pipe Sizing",
+    "Description": "Intuitive utility for engineers, technicians and students to calculate optimal pipe dimensions from flow, volume, density, time or rate.",
+    "Initials": "Ps",
+    "Color": "#F67B00",
+    "app-store-url": "https://apps.apple.com/us/app/pipe-sizing/id6738522817",
+    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.pipe.sizing",
+    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/95/6c/fe956c28-908b-91d4-d5e0-e853251c00c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+  },
+  {
+    "Name": "Pressure Loss",
+    "Description": "Estimate pipe pressure drops, head losses and friction factors using the Darcy and Colebrook-White equations.",
+    "Initials": "Pl",
+    "Color": "#4AAC8F",
+    "app-store-url": "",
+    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.pressure.loss",
+    "png-icon": ""
+  },
+  {
+    "Name": "Refrigerant Tables",
+    "Description": "Professional app that calculates refrigerants’ thermodynamic properties—inputs include temperature, pressure or volume; results include enthalpy, entropy, density and more.",
+    "Initials": "Rt",
+    "Color": "#884060",
+    "app-store-url": "https://apps.apple.com/app/refrigerant-tables/id6526497856",
+    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.refrigerant.tables",
+    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/06/01/6d06011c-728d-7990-1de9-ec71638b0681/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  },
+  {
+    "Name": "Regression Analysis",
+    "Description": "Tool for performing simple linear or exponential regression exercises—ideal for students or professionals needing quick insight.",
+    "Initials": "Ra",
+    "Color": "#3E5BAF",
+    "app-store-url": "https://apps.apple.com/us/app/regression-analysis/id6615062209",
+    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.regression.analysis",
+    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/83/c8/d283c8ea-8764-1dcd-7513-eb2fd4872d7d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+  },
+  {
+    "Name": "Shortcut Distillation",
+    "Description": "Size distillation columns using shortcut calculation methods.",
+    "Initials": "Sd",
+    "Color": "#9F9F9F",
+    "app-store-url": "",
+    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.shortcut.distillation",
+    "png-icon": ""
+  },
+  {
+    "Name": "Specific Heat",
+    "Description": "Calculate the specific heat capacity of ideal gases.",
+    "Initials": "Sh",
+    "Color": "#E6BD0C",
+    "app-store-url": "",
+    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.specific.heat",
+    "png-icon": ""
+  },
+  {
+    "Name": "Steam Tables",
+    "Description": "Calculate thermodynamic properties of water and steam with flexible inputs, quality control and multiple engineering units.",
+    "Initials": "St",
+    "Color": "#4D8AC2",
+    "app-store-url": "https://apps.apple.com/app/steam-tables-by-ca/id6504078020",
+    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.steam.tables",
+    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/3e/20/673e2074-4340-8043-3e26-41c0e5141db6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  },
+  {
+    "Name": "Units Conversor",
+    "Description": "Convert engineering measurements across 26 categories and more than 500 units, with saved values and conversion tables.",
+    "Initials": "Uc",
+    "Color": "#C53131",
+    "app-store-url": "",
+    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.units.conversor",
+    "png-icon": ""
+  },
+  {
+    "Name": "Vapour Pressures",
+    "Description": "Application designed to calculate vapor pressures and boiling points with two large databases and extensive unit support.",
+    "Initials": "Vp",
+    "Color": "#98BC35",
+    "app-store-url": "https://apps.apple.com/us/app/vapour-pressures/id6738324417",
+    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.pressures.vapour",
+    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/31/7e/d4317e3f-e673-b303-2c58-91a2e561ed5d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  },
+  {
+    "Name": "Pump Go",
+    "Description": "Your essential companion for designing and analyzing centrifugal pump systems—quick calculations, dynamic head, pump power and intuitive workflow.",
+    "Initials": "PG",
+    "Color": "#4D8AC2",
+    "app-store-url": "https://apps.apple.com/us/app/pump-go/id6745105179",
+    "play-store-url": "",
+    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/53/63/085363d0-ba5e-66aa-9556-987cd3090d35/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+  },
+  {
+    "Name": "Soap Making Workshop",
+    "Description": "Professional toolkit for handmade soap production and management—including recipes, batches, inventory, sales and iCloud sync.",
+    "Initials": "SM",
+    "Color": "#4D8AC2",
+    "app-store-url": "https://apps.apple.com/app/soap-making-workshop/id6742439211",
+    "play-store-url": "",
+    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/c5/23/b5c523cf-4989-5d8c-dac5-2474ceaa56e1/AppIcon-0-0-85-220-0-0-2-0-2x.png/512x512bb.png"
+  }
+]
