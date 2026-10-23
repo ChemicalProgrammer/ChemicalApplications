@@ -55,6 +55,16 @@
   { "name": "zima blue", "hex": "#0CB7F2" },
   { "name": "aegean sea", "hex": "#4D8EA3" },
 { "name": "machu picchu gardens", "hex": "#98BC35" },
-  { "name": "cape lee", "hex": "#527F8F" }
+  { "name": "cape lee", "hex": "#527F8F" },
+   { "name": "dark teal", "hex": "#014D4E" },
+  { "name": "drake’s neck", "hex": "#31668A" },
+  { "name": "pure mauve", "hex": "#6F5390" },
+  { "name": "dusky rose", "hex": "#BA6873" },
+  { "name": "apricot brown", "hex": "#CC7E5B" },
+  { "name": "slate grey", "hex": "#59656D" },
+  { "name": "gunmetal", "hex": "#536267" },
+  { "name": "charcoal", "hex": "#343837" },
+  { "name": "payne’s grey", "hex": "#536878" },
+  { "name": "graphite", "hex": "#383428" }
   
 ]
