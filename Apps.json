@@ -94,3 +94,62 @@
     "Description": "Tool for performing simple linear or exponential regression exercises—ideal for students or professionals needing quick insight.",
     "Initials": "Ra",
     "Color": "#3E5BAF",
+    "app-store-url": "https://apps.apple.com/us/app/regression-analysis/id6615062209",
+    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.regression.analysis",
+    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/83/c8/d283c8ea-8764-1dcd-7513-eb2fd4872d7d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+  },
+  {
+    "Name": "Shortcut Distillation",
+    "Description": "Size distillation columns using shortcut calculation methods.",
+    "Initials": "Sd",
+    "Color": "#9F9F9F",
+    "app-store-url": "",
+    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.shortcut.distillation",
+    "png-icon": ""
+  },
+  {
+    "Name": "Soap Making Workshop",
+    "Description": "Professional toolkit for handmade soap production and management—including recipes, batches, inventory, sales and iCloud sync.",
+    "Initials": "SM",
+    "Color": "#4D8AC2",
+    "app-store-url": "https://apps.apple.com/us/app/soap-making-workshop/id6742439211",
+    "play-store-url": "",
+    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/f4/86/26f4860c-0048-8972-ba92-72dd0dbad6a6/AppIcon-0-0-85-220-0-0-2-0-2x.png/512x512bb.png"
+  },
+  {
+    "Name": "Specific Heat",
+    "Description": "Calculate the specific heat capacity of ideal gases.",
+    "Initials": "Sh",
+    "Color": "#E6BD0C",
+    "app-store-url": "",
+    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.specific.heat",
+    "png-icon": ""
+  },
+  {
+    "Name": "Steam Tables",
+    "Description": "Calculate thermodynamic properties of water and steam with flexible inputs, quality control and multiple engineering units.",
+    "Initials": "St",
+    "Color": "#4D8AC2",
+    "app-store-url": "https://apps.apple.com/us/app/steam-tables-by-ca/id6504078020",
+    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.steam.tables",
+    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/35/1d/54351d24-2f67-81aa-b55d-5eb3f6f52948/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  },
+  {
+    "Name": "Units Conversor",
+    "Description": "Convert engineering measurements across 26 categories and more than 500 units, with saved values and conversion tables.",
+    "Initials": "Uc",
+    "Color": "#C53131",
+    "app-store-url": "",
+    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.units.conversor",
+    "png-icon": ""
+  },
+  {
+    "Name": "Vapour Pressures",
+    "Description": "Application designed to calculate vapor pressures and boiling points with two large databases and extensive unit support.",
+    "Initials": "Vp",
+    "Color": "#98BC35",
+    "app-store-url": "https://apps.apple.com/us/app/vapour-pressures/id6738324417",
+    "play-store-url": "https://play.google.com/store/apps/details?id=chemical.applications.pressures.vapour",
+    "png-icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/31/7e/d4317e3f-e673-b303-2c58-91a2e561ed5d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  }
+]
