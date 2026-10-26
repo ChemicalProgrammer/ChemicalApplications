@@ -1,0 +1,505 @@
+{
+  "schema": 1,
+  "catalog": "steam-tables-literature",
+  "default_locale": "en",
+  "content_locales": [
+    "en",
+    "es"
+  ],
+  "fallback_locale": "en",
+  "sections": {
+    "glossary": [
+      {
+        "id": "01-thermodynamic-state",
+        "title": {
+          "en": "Thermodynamic state",
+          "es": "Estado termodinámico"
+        },
+        "description": {
+          "en": "The condition of a system specified by independent properties such as pressure and temperature. For a simple compressible, single-phase pure substance, two independent intensive properties are sufficient.",
+          "es": "Condición de un sistema descrita mediante propiedades independientes, como presión y temperatura. Para una sustancia pura y simple en una sola fase, bastan dos propiedades intensivas independientes."
+        }
+      },
+      {
+        "id": "02-saturation",
+        "title": {
+          "en": "Saturation",
+          "es": "Saturación"
+        },
+        "description": {
+          "en": "Equilibrium between liquid and vapor at a given saturation temperature and pressure. The two quantities are linked for a pure substance.",
+          "es": "Equilibrio entre líquido y vapor a una temperatura y presión de saturación. Ambas magnitudes están relacionadas para una sustancia pura."
+        }
+      },
+      {
+        "id": "03-enthalpy",
+        "title": {
+          "en": "Enthalpy",
+          "es": "Entalpía"
+        },
+        "description": {
+          "en": "A state function combining internal energy with pressure-volume work. Specific enthalpy is widely used to analyze steady-flow equipment.",
+          "es": "Función de estado que combina energía interna y trabajo de presión-volumen. La entalpía específica resulta útil en equipos de flujo continuo."
+        }
+      },
+      {
+        "id": "04-entropy",
+        "title": {
+          "en": "Entropy",
+          "es": "Entropía"
+        },
+        "description": {
+          "en": "A thermodynamic property used to describe reversible heat transfer and quantify entropy generation caused by irreversible processes.",
+          "es": "Propiedad termodinámica empleada para describir transferencia reversible de calor y generación de entropía por irreversibilidades."
+        }
+      },
+      {
+        "id": "05-vapor-quality",
+        "title": {
+          "en": "Vapor quality",
+          "es": "Título de vapor"
+        },
+        "description": {
+          "en": "The mass fraction of vapor in a saturated liquid–vapor mixture. A value of zero means saturated liquid; one means saturated vapor.",
+          "es": "Fracción másica de vapor en una mezcla saturada líquido-vapor. Cero corresponde a líquido saturado y uno a vapor saturado."
+        }
+      },
+      {
+        "id": "06-specific-volume",
+        "title": {
+          "en": "Specific volume",
+          "es": "Volumen específico"
+        },
+        "description": {
+          "en": "Volume per unit mass; the reciprocal of density. For vapor it may vary strongly with pressure and temperature.",
+          "es": "Volumen por unidad de masa, recíproco de la densidad. En el vapor puede variar mucho con la presión y la temperatura."
+        }
+      },
+      {
+        "id": "07-critical-point",
+        "title": {
+          "en": "Critical point",
+          "es": "Punto crítico"
+        },
+        "description": {
+          "en": "The endpoint of the saturation curve where saturated liquid and vapor properties become identical. Above it, there is no distinct liquid–vapor phase boundary.",
+          "es": "Extremo de la curva de saturación donde las propiedades del líquido y vapor saturados coinciden. Más allá no existe una frontera líquido-vapor definida."
+        }
+      },
+      {
+        "id": "08-superheated-vapor",
+        "title": {
+          "en": "Superheated vapor",
+          "es": "Vapor sobrecalentado"
+        },
+        "description": {
+          "en": "Vapor at a temperature higher than the saturation temperature at its pressure. Its properties depend independently on pressure and temperature.",
+          "es": "Vapor a temperatura superior a la de saturación para su presión. Sus propiedades dependen de la presión y la temperatura."
+        }
+      },
+      {
+        "id": "09-compressed-liquid",
+        "title": {
+          "en": "Compressed liquid",
+          "es": "Líquido comprimido"
+        },
+        "description": {
+          "en": "Liquid whose pressure is above saturation pressure at its temperature; it has not reached the two-phase boundary.",
+          "es": "Líquido cuya presión supera la de saturación para su temperatura, sin alcanzar la región bifásica."
+        }
+      }
+    ],
+    "theory": [
+      {
+        "id": "01-equilibrium-and-state",
+        "title": {
+          "en": "Equilibrium and state",
+          "es": "Equilibrio y estado"
+        },
+        "description": {
+          "en": "In thermodynamic equilibrium, macroscopic properties remain uniform or stationary under the specified constraints. State properties do not depend on the path taken. Heat and work, in contrast, describe transfers during a process.",
+          "es": "En equilibrio termodinámico, las propiedades macroscópicas permanecen estacionarias según las restricciones del sistema. Las propiedades de estado no dependen de la trayectoria. Calor y trabajo, en cambio, describen transferencias durante un proceso."
+        }
+      },
+      {
+        "id": "02-saturation-dome-and-two-phase-region",
+        "title": {
+          "en": "Saturation dome and two-phase region",
+          "es": "Campana de saturación y región bifásica"
+        },
+        "description": {
+          "en": "For water, the saturation boundaries join at the critical point. A state under the dome can contain both liquid and vapor. At a given saturation pressure, mixture properties such as enthalpy are mass-weighted averages of their saturated endpoints.",
+          "es": "En el agua, las fronteras de saturación se unen en el punto crítico. Debajo de la campana coexisten líquido y vapor. A presión de saturación fija, propiedades de mezcla como la entalpía se calculan como promedios ponderados por masa de ambos extremos."
+        }
+      },
+      {
+        "id": "03-energy-balance",
+        "title": {
+          "en": "Energy balance",
+          "es": "Balance de energía"
+        },
+        "description": {
+          "en": "The first law expresses conservation of energy. For a closed system, the change in internal energy equals net heat added minus work done by the system, if kinetic and potential energy changes are negligible. Open systems use enthalpy and flow terms.",
+          "es": "La primera ley expresa conservación de energía. En un sistema cerrado, la variación de energía interna equivale al calor neto recibido menos el trabajo realizado, si se desprecian cambios cinéticos y potenciales. En flujo abierto intervienen entalpía y términos de flujo."
+        }
+      },
+      {
+        "id": "04-entropy-and-irreversibility",
+        "title": {
+          "en": "Entropy and irreversibility",
+          "es": "Entropía e irreversibilidad"
+        },
+        "description": {
+          "en": "The entropy balance includes transfer with heat and entropy generation. Friction, mixing across gradients and heat transfer across finite temperature differences generate entropy. Real processes generally create entropy, while an ideal reversible process does not.",
+          "es": "El balance de entropía incluye transferencia asociada al calor y generación interna. Fricción, mezcla con gradientes y transferencia de calor entre temperaturas distintas generan entropía. Los procesos reales normalmente la generan; el proceso reversible ideal no."
+        }
+      },
+      {
+        "id": "05-using-property-charts",
+        "title": {
+          "en": "Using property charts",
+          "es": "Interpretación de diagramas"
+        },
+        "description": {
+          "en": "p–h helps visualize throttling and enthalpy changes; T–s illustrates temperature–entropy evolution; h–s can compare expansion paths; p–v links compression or expansion with volume. Curves are reference relationships, not automatically process trajectories.",
+          "es": "El diagrama p–h ayuda a visualizar estrangulamientos y cambios de entalpía; T–s muestra evolución temperatura-entropía; h–s permite comparar expansiones; p–v relaciona compresión o expansión con volumen. Las curvas de referencia no representan por sí solas una trayectoria de proceso."
+        }
+      },
+      {
+        "id": "06-further-engineering-references",
+        "title": {
+          "en": "Further engineering references",
+          "es": "Referencias de ingeniería"
+        },
+        "description": {
+          "en": "For deeper treatments, consult Çengel, Boles and Kanoğlu, Thermodynamics: An Engineering Approach; or Moran, Shapiro, Boettner and Bailey, Fundamentals of Engineering Thermodynamics. Use validated property data for design calculations; simplified equations in this reference are not universal water/steam property correlations.",
+          "es": "Para profundizar, pueden consultarse Çengel, Boles y Kanoğlu, Thermodynamics: An Engineering Approach; o Moran, Shapiro, Boettner y Bailey, Fundamentals of Engineering Thermodynamics. Para cálculos de diseño deben utilizarse datos de propiedades validados; las ecuaciones simplificadas aquí presentadas no sustituyen correlaciones generales de agua y vapor."
+        }
+      }
+    ],
+    "equations": [
+      {
+        "id": "01-specific-enthalpy",
+        "title": {
+          "en": "Specific enthalpy",
+          "es": "Entalpía específica"
+        },
+        "description": {
+          "en": "Defines specific enthalpy for a simple compressible substance.",
+          "es": "Define la entalpía específica de una sustancia compresible simple."
+        },
+        "latex": "h = u + p v",
+        "mathml": "<mi>h</mi><mo>=</mo><mi>u</mi><mo>+</mo><mi>p</mi><mi>v</mi>",
+        "variables": [
+          {
+            "symbol": "h",
+            "description": {
+              "en": "Specific enthalpy (J/kg)",
+              "es": "Entalpía específica (J/kg)"
+            }
+          },
+          {
+            "symbol": "u",
+            "description": {
+              "en": "Specific internal energy (J/kg)",
+              "es": "Energía interna específica (J/kg)"
+            }
+          },
+          {
+            "symbol": "p",
+            "description": {
+              "en": "Absolute pressure (Pa)",
+              "es": "Presión absoluta (Pa)"
+            }
+          },
+          {
+            "symbol": "v",
+            "description": {
+              "en": "Specific volume (m³/kg)",
+              "es": "Volumen específico (m³/kg)"
+            }
+          }
+        ],
+        "assumption": {
+          "en": "Use consistent SI units; the product p v has energy-per-mass units.",
+          "es": "Emplear unidades SI coherentes; el producto p v tiene unidades de energía por masa."
+        }
+      },
+      {
+        "id": "02-ideal-gas-equation-of-state",
+        "title": {
+          "en": "Ideal-gas equation of state",
+          "es": "Ecuación de estado del gas ideal"
+        },
+        "description": {
+          "en": "Relates pressure, temperature and specific volume for an ideal gas.",
+          "es": "Relaciona presión, temperatura y volumen específico de un gas ideal."
+        },
+        "latex": "p v = R T",
+        "mathml": "<mi>p</mi><mi>v</mi><mo>=</mo><mi>R</mi><mi>T</mi>",
+        "variables": [
+          {
+            "symbol": "p",
+            "description": {
+              "en": "Absolute pressure (Pa)",
+              "es": "Presión absoluta (Pa)"
+            }
+          },
+          {
+            "symbol": "v",
+            "description": {
+              "en": "Specific volume (m³/kg)",
+              "es": "Volumen específico (m³/kg)"
+            }
+          },
+          {
+            "symbol": "R",
+            "description": {
+              "en": "Specific gas constant (J/(kg·K))",
+              "es": "Constante específica del gas (J/(kg·K))"
+            }
+          },
+          {
+            "symbol": "T",
+            "description": {
+              "en": "Absolute temperature (K)",
+              "es": "Temperatura absoluta (K)"
+            }
+          }
+        ],
+        "assumption": {
+          "en": "Approximation for ideal gases; do not use for saturated mixtures or dense steam.",
+          "es": "Aproximación para gases ideales; no aplicar a mezclas saturadas ni vapor denso."
+        }
+      },
+      {
+        "id": "03-closed-system-first-law",
+        "title": {
+          "en": "Closed-system first law",
+          "es": "Primera ley en sistema cerrado"
+        },
+        "description": {
+          "en": "An energy balance with negligible changes of kinetic and potential energy.",
+          "es": "Balance energético despreciando cambios de energía cinética y potencial."
+        },
+        "latex": "\\Delta U = Q - W",
+        "mathml": "<mi>Δ</mi><mi>U</mi><mo>=</mo><mi>Q</mi><mo>−</mo><mi>W</mi>",
+        "variables": [
+          {
+            "symbol": "ΔU",
+            "description": {
+              "en": "Change in internal energy (J)",
+              "es": "Cambio de energía interna (J)"
+            }
+          },
+          {
+            "symbol": "Q",
+            "description": {
+              "en": "Net heat into the system (J)",
+              "es": "Calor neto hacia el sistema (J)"
+            }
+          },
+          {
+            "symbol": "W",
+            "description": {
+              "en": "Net work performed by the system (J)",
+              "es": "Trabajo neto realizado por el sistema (J)"
+            }
+          }
+        ],
+        "assumption": {
+          "en": "Sign convention: heat into and work out of the system are positive.",
+          "es": "Convención de signos: calor entrante y trabajo saliente son positivos."
+        }
+      },
+      {
+        "id": "04-saturated-mixture-quality",
+        "title": {
+          "en": "Saturated-mixture quality",
+          "es": "Título de mezcla saturada"
+        },
+        "description": {
+          "en": "Determines vapor mass fraction from a mixture’s specific enthalpy.",
+          "es": "Determina la fracción másica de vapor a partir de la entalpía específica."
+        },
+        "latex": "x = \\frac{h-h_f}{h_g-h_f}",
+        "mathml": "<mi>x</mi><mo>=</mo><mfrac><mrow><mi>h</mi><mo>−</mo><msub><mi>h</mi><mi>f</mi></msub></mrow><mrow><msub><mi>h</mi><mi>g</mi></msub><mo>−</mo><msub><mi>h</mi><mi>f</mi></msub></mrow></mfrac>",
+        "variables": [
+          {
+            "symbol": "x",
+            "description": {
+              "en": "Vapor mass fraction (0–1)",
+              "es": "Fracción másica de vapor (0–1)"
+            }
+          },
+          {
+            "symbol": "h",
+            "description": {
+              "en": "Mixture specific enthalpy (J/kg)",
+              "es": "Entalpía específica de la mezcla (J/kg)"
+            }
+          },
+          {
+            "symbol": "h_f",
+            "description": {
+              "en": "Saturated liquid enthalpy (J/kg)",
+              "es": "Entalpía de líquido saturado (J/kg)"
+            }
+          },
+          {
+            "symbol": "h_g",
+            "description": {
+              "en": "Saturated vapor enthalpy (J/kg)",
+              "es": "Entalpía de vapor saturado (J/kg)"
+            }
+          }
+        ],
+        "assumption": {
+          "en": "Only inside the saturated liquid–vapor region, using endpoints at the same saturation pressure.",
+          "es": "Solo dentro de la región líquido-vapor saturada, usando extremos a la misma presión de saturación."
+        }
+      },
+      {
+        "id": "05-clapeyron-relation",
+        "title": {
+          "en": "Clapeyron relation",
+          "es": "Relación de Clapeyron"
+        },
+        "description": {
+          "en": "Gives the slope of a liquid–vapor equilibrium curve.",
+          "es": "Determina la pendiente de la curva de equilibrio líquido-vapor."
+        },
+        "latex": "\\frac{\\mathrm{d}p_{\\mathrm{sat}}}{\\mathrm{d}T} = \\frac{h_{fg}}{T(v_g-v_f)}",
+        "mathml": "<mfrac><mrow><mi>d</mi><msub><mi>p</mi><mtext>sat</mtext></msub></mrow><mrow><mi>d</mi><mi>T</mi></mrow></mfrac><mo>=</mo><mfrac><msub><mi>h</mi><mtext>fg</mtext></msub><mrow><mi>T</mi><mo>(</mo><msub><mi>v</mi><mi>g</mi></msub><mo>−</mo><msub><mi>v</mi><mi>f</mi></msub><mo>)</mo></mrow></mfrac>",
+        "variables": [
+          {
+            "symbol": "p_sat",
+            "description": {
+              "en": "Saturation pressure (Pa)",
+              "es": "Presión de saturación (Pa)"
+            }
+          },
+          {
+            "symbol": "T",
+            "description": {
+              "en": "Absolute saturation temperature (K)",
+              "es": "Temperatura de saturación (K)"
+            }
+          },
+          {
+            "symbol": "h_fg",
+            "description": {
+              "en": "Enthalpy of vaporization (J/kg)",
+              "es": "Entalpía de vaporización (J/kg)"
+            }
+          },
+          {
+            "symbol": "v_g",
+            "description": {
+              "en": "Saturated vapor specific volume (m³/kg)",
+              "es": "Volumen específico de vapor saturado (m³/kg)"
+            }
+          },
+          {
+            "symbol": "v_f",
+            "description": {
+              "en": "Saturated liquid specific volume (m³/kg)",
+              "es": "Volumen específico de líquido saturado (m³/kg)"
+            }
+          }
+        ],
+        "assumption": {
+          "en": "For phase equilibrium along the saturation curve; not a generic equation for superheated states.",
+          "es": "Para equilibrio de fases sobre la curva de saturación; no describe genéricamente estados sobrecalentados."
+        }
+      },
+      {
+        "id": "06-carnot-efficiency",
+        "title": {
+          "en": "Carnot efficiency",
+          "es": "Rendimiento de Carnot"
+        },
+        "description": {
+          "en": "Upper efficiency limit for a reversible engine operating between two thermal reservoirs.",
+          "es": "Límite superior de rendimiento de un motor reversible entre dos depósitos térmicos."
+        },
+        "latex": "\\eta_{\\mathrm{Carnot}} = 1 - \\frac{T_c}{T_h}",
+        "mathml": "<msub><mi>η</mi><mtext>Carnot</mtext></msub><mo>=</mo><mn>1</mn><mo>−</mo><mfrac><msub><mi>T</mi><mi>c</mi></msub><msub><mi>T</mi><mi>h</mi></msub></mfrac>",
+        "variables": [
+          {
+            "symbol": "η_Carnot",
+            "description": {
+              "en": "Ideal thermal efficiency (0–1)",
+              "es": "Rendimiento térmico ideal (0–1)"
+            }
+          },
+          {
+            "symbol": "T_c",
+            "description": {
+              "en": "Cold reservoir temperature (K)",
+              "es": "Temperatura del foco frío (K)"
+            }
+          },
+          {
+            "symbol": "T_h",
+            "description": {
+              "en": "Hot reservoir temperature (K)",
+              "es": "Temperatura del foco caliente (K)"
+            }
+          }
+        ],
+        "assumption": {
+          "en": "Only for a reversible engine between two reservoirs; both temperatures must be in kelvin.",
+          "es": "Solo para un motor reversible entre dos depósitos; ambas temperaturas deben expresarse en kelvin."
+        }
+      },
+      {
+        "id": "07-joule-thomson-coefficient",
+        "title": {
+          "en": "Joule–Thomson coefficient",
+          "es": "Coeficiente Joule–Thomson"
+        },
+        "description": {
+          "en": "Temperature sensitivity to pressure in an isenthalpic process.",
+          "es": "Sensibilidad de temperatura frente a presión en un proceso isoentálpico."
+        },
+        "latex": "\\mu_{JT} = \\left(\\frac{\\partial T}{\\partial p}\\right)_h",
+        "mathml": "<msub><mi>μ</mi><mtext>JT</mtext></msub><mo>=</mo><msub><mrow><mo>(</mo><mfrac><mrow><mo>∂</mo><mi>T</mi></mrow><mrow><mo>∂</mo><mi>p</mi></mrow></mfrac><mo>)</mo></mrow><mi>h</mi></msub>",
+        "variables": [
+          {
+            "symbol": "μ_JT",
+            "description": {
+              "en": "Joule–Thomson coefficient (K/Pa)",
+              "es": "Coeficiente Joule–Thomson (K/Pa)"
+            }
+          },
+          {
+            "symbol": "T",
+            "description": {
+              "en": "Temperature (K)",
+              "es": "Temperatura (K)"
+            }
+          },
+          {
+            "symbol": "p",
+            "description": {
+              "en": "Pressure (Pa)",
+              "es": "Presión (Pa)"
+            }
+          },
+          {
+            "symbol": "h",
+            "description": {
+              "en": "Enthalpy held constant (J/kg)",
+              "es": "Entalpía constante (J/kg)"
+            }
+          }
+        ],
+        "assumption": {
+          "en": "The coefficient may be positive, zero or negative, depending on the fluid state.",
+          "es": "Puede ser positivo, cero o negativo según el estado del fluido."
+        }
+      }
+    ]
+  }
+}
